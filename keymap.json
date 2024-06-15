@@ -4,7 +4,7 @@
       "cmd-l": "workspace::ToggleLeftDock",
       "cmd-2": "workspace::ToggleBottomDock",
       "shift-cmd-d": [
-        "editor::SelectPrevious",
+        "editor::SelectNext",
         {
           "replace_newest": false
         }
