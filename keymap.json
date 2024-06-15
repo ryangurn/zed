@@ -1,0 +1,14 @@
+[
+  {
+    "bindings": {
+      "cmd-l": "workspace::ToggleLeftDock",
+      "cmd-2": "workspace::ToggleBottomDock",
+      "shift-cmd-d": [
+        "editor::SelectPrevious",
+        {
+          "replace_newest": false
+        }
+      ]
+    }
+  }
+]
